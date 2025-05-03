@@ -1,7 +1,5 @@
-/* Import Google Fonts */
-/* Import Google Fonts in the HTML file instead of the CSS file */
-/* Import Google Fonts in the HTML file instead of the CSS file */
-
+/* Fonts should be imported in the HTML file */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:wght@400;700&display=swap');
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
     margin: 0;
     padding: 0;

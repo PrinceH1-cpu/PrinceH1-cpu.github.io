@@ -15,7 +15,7 @@ header, footer {
 body {
     font-family: 'Playfair Display', serif;
     font-size: 200%;
-    color: #333;
+    color: #f93e3e;
     background-color: #b94a05;
     line-height: 1.6;
     padding: 20px;
@@ -24,7 +24,7 @@ body {
 /* Headings */ 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
-    color: #0fac0c;
+    color: #010600;
     margin-bottom: 10px;
 }
 

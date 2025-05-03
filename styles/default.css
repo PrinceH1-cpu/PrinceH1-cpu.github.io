@@ -11,14 +11,16 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
 /* Body Styles */
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 150%;
+    color: #2c3e50;
+    background-color: #f53c3c;
     line-height: 1.6;
     color: #333;
     background-color: #f9f9f9;
     padding: 20px;
 }
 
-/* Headings */
+/* Headings */ 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
     color: #222;

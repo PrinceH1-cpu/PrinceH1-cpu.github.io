@@ -11,7 +11,7 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
 /* Body Styles */
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 1rem;
+    font-size: 200%;
     color: #333;
     background-color: #d9340a;
     line-height: 1.6;

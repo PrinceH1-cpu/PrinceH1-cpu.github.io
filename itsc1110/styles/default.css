@@ -10,13 +10,11 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
 
 /* Body Styles */
 body {
-    font-family: 'Poppins', sans-serif;
-    font-size: 200%;
-    color: #f1320b;
-    background-color: #f53c3c;
-    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #d9340a;
+    line-height: 1.6;
     padding: 20px;
 }
 

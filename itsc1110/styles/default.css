@@ -7,8 +7,13 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
     padding: 0;
     box-sizing: border-box;
 }
-
-/* Body Styles */
+header, footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+   
 body {
     font-family: 'Playfair Display', serif;
     font-size: 200%;
@@ -69,28 +74,6 @@ li {
     margin-bottom: 5px;
 }
 
-/* Buttons */
-button {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1rem;
-    padding: 10px 15px;
-    background-color: #007BFF;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
+ 
 
-button:hover {
-    background-color: #0056b3;
-}
 
-/* Containers */
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}

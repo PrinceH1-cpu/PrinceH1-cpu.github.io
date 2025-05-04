@@ -1,5 +1,5 @@
 /* Fonts should be imported in the HTML file. Remove @import and include the font link in the HTML <head>. */
-body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
+body, h1, h2, p, ul, ol, li, a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;

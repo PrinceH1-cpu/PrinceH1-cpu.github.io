@@ -1,6 +1,6 @@
 /* Fonts are linked in the HTML file's <head> using <link> tags. */
 /* Ensure fonts are linked in the HTML file's <head> using <link> tags. */
-body, h1, h2, p, ul, ol, li, a {
+body, h1, h2, h3, p, ul, ol, li, a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -30,10 +30,16 @@ h1, h2 {
 
 h1 {
     font-size: 2.5rem;
+    test-align: center;
 }
 
 h2 {
     font-size: 2rem;
+    text-align: center;
+}
+h3 {
+    font-size: 1.75rem;
+    text-align: center;
 }
 /* Links */
 a {

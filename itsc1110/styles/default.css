@@ -1,4 +1,4 @@
-/* Fonts should be imported in the HTML file. Remove @import and include the font link in the HTML <head>. */
+/* Ensure fonts are linked in the HTML file's <head> using <link> tags. */
 body, h1, h2, p, ul, ol, li, a {
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 200%;
     color: #080707;
-    background-color: #b94a05;
+    background-color: #ada9a7;
     line-height: 1.6;
     padding: 20px;
 }

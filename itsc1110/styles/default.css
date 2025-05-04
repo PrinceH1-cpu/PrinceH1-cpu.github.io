@@ -54,7 +54,11 @@ ul, ol {
 li {
     margin-bottom: 5px;
 }
-
+figcaption {
+    font-style: italic;
+    text-align: center;
+    margin-top: 5px;
+}
  
 
 
